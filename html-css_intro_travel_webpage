@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Spin-off of "Project: Travel webpage"</title>
+    </head>
+    <body>
+    <style>
+        body {
+            background-color: rgb(217, 217, 213);
+        }
+        #main{
+            color: rgb(156, 151, 0);
+        }
+        .border{
+            border-style: solid;
+            padding: 30px;
+        }
+        .title{
+            color: rgb(189, 106, 64);
+        }
+        .description{
+            color:rgb(41, 12, 41);
+        }
+    </style>
+        <h1 id="main">Favorite destinations</h1>
+        
+            <div class="border">
+            <h2 class="title">1. Florence, Italy</h2>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Collage_Firenze.jpg/405px-Collage_Firenze.jpg" width="300" alt="Florence, Italy"/>
+                <p class="description">Lorem ipsum dolor sit amet, ei justo audiam pertinacia eum. Ius id quis veniam, duo cu lucilius volutpat. Denique signiferumque usu eu, insolens ocurreret quaerendum vix ad, his dicam postea officiis ad. Affert tincidunt ex quo, odio magna iisque ad sit, usu mandamus electram mnesarchum eu. </p>
+                <ol>
+                <h4>Things to do</h4>
+                    <li>one</li>
+                    <li>two</li>
+                </ol>
+            </div>
+            <div class="border">
+            <h2 class="title">2. Paris, France</h2>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg" width="300" alt="Paris, France"/>
+                <p class="description">Lorem ipsum dolor sit amet, ei justo audiam pertinacia eum. Ius id quis veniam, duo cu lucilius volutpat. Denique signiferumque usu eu, insolens ocurreret quaerendum vix ad, his dicam postea officiis ad. Affert tincidunt ex quo, odio magna iisque ad sit, usu mandamus electram mnesarchum eu.</p>
+                <ol>
+                <h4>Things to do</h4>
+                    <li>one</li>
+                    <li>two</li>
+                </ol>
+            </div>
+            <div class="border">
+            <h2 class="title">3. Munich, Germany</h2>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Frauenkirche_and_Neues_Rathaus_Munich_March_2013.JPG/405px-Frauenkirche_and_Neues_Rathaus_Munich_March_2013.JPG" width="300" alt="Munich, Germany"/>
+             <p class="description">Lorem ipsum dolor sit amet, ei justo audiam pertinacia eum. Ius id quis veniam, duo cu lucilius volutpat. Denique signiferumque usu eu, insolens ocurreret quaerendum vix ad, his dicam postea officiis ad. Affert tincidunt ex quo, odio magna iisque ad sit, usu mandamus electram mnesarchum eu.</p>
+             <ol>
+             <h4>Things to do</h4>
+                    <li>one</li>
+                    <li>two</li>
+                </ol>
+            </div>
+            <div class="border">
+            <h2 class="title">4. Rio de Janiero, Brazil</h2>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Amanhecer_no_Hercules_--.jpg/330px-Amanhecer_no_Hercules_--.jpg" alt="Brazil"/>
+                <p class="description">Lorem ipsum dolor sit amet, ei justo audiam pertinacia eum. Ius id quis veniam, duo cu lucilius volutpat. Denique signiferumque usu eu, insolens ocurreret quaerendum vix ad, his dicam postea officiis ad. Affert tincidunt ex quo, odio magna iisque ad sit, usu mandamus electram mnesarchum eu.</p>
+                <ol>
+                <h4>Things to do</h4>
+                    <li>one</li>
+                    <li>two</li>
+                </ol>
+            </div>
+            <div class="border">
+            <h2 class="title">5. Antartica</h2>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adelie_Penguins_on_iceberg.jpg/330px-Adelie_Penguins_on_iceberg.jpg" width="300" alt="Antartica"/>
+                <p class="description">Lorem ipsum dolor sit amet, ei justo audiam pertinacia eum. Ius id quis veniam, duo cu lucilius volutpat. Denique signiferumque usu eu, insolens ocurreret quaerendum vix ad, his dicam postea officiis ad. Affert tincidunt ex quo, odio magna iisque ad sit, usu mandamus electram mnesarchum eu.</p>
+                <ol>
+                <h4>Things to do</h4>
+                    <li>one</li>
+                    <li>two</li>
+                </ol>
+            </div>
+    </body>
+</html>
