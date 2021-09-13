@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Spin-off of "Project: Recipe book"</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+       <style>
+           body {
+               background-color:rgb(216, 242, 215);
+           }
+           .title {
+               color: rgb(0, 145, 48);
+           }
+           thead {
+               color: rgb(255, 0, 255);
+           }
+       </style>
+        <h1 class="title">J's Recipe Book</h1>
+        
+        <h2 class="title">Contents:</h2>
+        
+        <ol>
+            <li><a href= "#veggie_paella" alt="Vegetarian Paella Recipe">Veggie Paella</a></li>
+            <li><a href= "#pan_pasta" alt="Martha's Stewart's One-Pan Pasta Recipe">Martha's Stewart's One-Pan Pasta Recipe</a></li>
+            <li><a href= "#walnut_pasta" alt="Creamy Asparagus, Lemon, and Walnut Pasta">Creamy Asparagus, Lemon, and Walnut Pasta</a></li>
+        </ol>
+        
+        <h2 class="title" id="veggie_paella">Recipe #1</h2>
+        
+        <ul>
+            <li>Time: 30 minutes</li>
+            <li>Serves: 4</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <th>Rice</th>
+                <th>4 cups</th>
+            </tbody>
+            <tbody>
+                <th>Mixed Veggies</th>
+                <th>10 ounces</th>
+            </tbody>
+            <tbody>
+                <th>Olive Oil</th>
+                <th>3 tablespoons</th>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong><br> In a large 12-inch frying pan (any kind except nonstick will do) over medium heat, heat the oil until shimmering. Add the onion, carrots, and garlic, season with salt, and cook, stirring occasionally, for about 7 minutes, until soft but not browning. Add the sofrito, rice, paprika, and saffron and stir to coat in the onion mixture. Let toast on the burner for 1 to 2 minutes.<br>
+        <strong>Step 2:</strong><br> Add the peas and stock and stir to combine (this is the last time you’ll stir). Arrange the beans, artichokes, red peppers, and zucchini on top of the rice and press into the rice to submerge gently. Without stirring, let the liquid come to a boil over medium heat, then reduce the heat to medium-low and simmer for 30 to 40 minutes, until all of the liquid has been absorbed by the rice and has steamed the vegetables. To check the liquid level, use the handle end of a wooden spoon to make a little crater in the paella and see if there is still water at the bottom; if so, keep cooking. When all of the water has been absorbed, increase the heat to medium and listen for the rice to start to crackle and develop the socarrat, about 30 seconds to 2 minutes.<br>
+        <strong>Step 3:</strong><br> Remove the pan from the heat and let rest for 10 minutes to set.<br>
+        <strong>Step 4:</strong><br> Divide the paella among plates, being sure to scrape up any socarrat. Serve with a squeeze of lemon or flourish of parsley (I usually serve a green salad on the side or at the end of the meal).
+</p>
+        
+    <p><em>Source: <a href="https://food52.com/recipes/86139-best-vegetarian-paella-recipe">Food 52</a></em></p>
+    
+    <h2 class="title" id="pan_pasta">Recipe #2</h2>
+        
+        <ul>
+            <li>Time: 45 minutes</li>
+            <li>Serves: 2</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <th>Dried Spaghetti</th>
+                <th>7 ounces</th>
+            </tbody>
+            <tbody>
+                <th>Tomatoes</th>
+                <th>3 whole</th>
+            </tbody>
+            <tbody>
+                <th>Olive Oil</th>
+                <th>3 tablespoons</th>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong><br> Combine pasta, tomatoes, onion, garlic, red-pepper flakes, basil, oil, 2 teaspoons salt, 1/4 teaspoon pepper, and water in a large straight-sided skillet (the linguine should lay flat)..<br>
+        <strong>Step 2:</strong><br>Bring to a boil over high heat. Boil mixture, stirring and turning pasta frequently with tongs or a fork, until pasta is al dente and water has nearly evaporated, about 9 minutes. <br>
+        <strong>Step 3:</strong><br> Season to taste with salt and pepper, divide among 4 bowls, and garnish with basil. Serve with olive oil and Parmesan.<br>
+        </p>
+      
+        
+    <p><em>Source: <a href="https://food52.com/recipes/30147-martha-stewart-s-one-pan-pasta">Food 52</a></em></p>
+    
+    <h2 class="title" id="walnut_pasta">Recipe #3</h2>
+        
+        <ul>
+            <li>Time: 25 minutes</li>
+            <li>Serves: 6</li>
+        </ul>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+            </thead>
+            <tbody>
+                <th>Dried Spaghetti</th>
+                <th>7 ounces</th>
+            </tbody>
+            <tbody>
+                <th>Asparagus Spares</th>
+                <th>1 pound</th>
+            </tbody>
+            <tbody>
+                <th>Olive Oil</th>
+                <th>3 tablespoons</th>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong><br>Bring a large pot of water to a strong boil. Season with salt, then add pasta. Cook according to package directions for "al dente." Set aside about 1 cup cooking water, then drain pasta.<br>
+        <strong>Step 2:</strong><br>While water is coming to a boil, cut off and discard the tough ends of the asparagus. Cut the remainder into 1/3-inch rounds, leaving the tips intact. Heat olive oil and garlic in a large pan over medium heat for five minutes. Add asparagus, salt, pepper, and 1/3 cup of the reserved pasta water. Cover pan and cook asparagus for 4 to 8 minutes, until tender to the bite. Turn off heat and discard garlic. <br>
+        <strong>Step 3:</strong><br>Once pasta is finished, purée 1/3 of the cooked asparagus and 1/4 cup of the reserved cooking water in a food processor, blender, or immersion blender until smooth. Try to avoid blending the asparagus tips, for aesthetic reasons.<br>
+        <strong>Step 4:</strong><br>Add puréed asparagus back to pan, along with sliced asparagus. Mix in cooked pasta, lemon zest, and more pasta water as needed to keep the sauce loose. Heat on low for a minute or two to allow pasta to absorb some of the sauce. Serve immediately, topped with chopped walnuts.<br>
+        </p>
+      
+        
+    <p><em>Source: <a href="https://food52.com/recipes/28279-creamy-asparagus-lemon-and-walnut-pasta">Food 52</a></em></p>
+    
+    
+    </body>
+</html>
